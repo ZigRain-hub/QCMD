@@ -1,0 +1,29 @@
+{
+  "blur_level": 50,
+  "tint_rgb": [20, 20, 25],
+  "border_color": [255, 255, 255, 80],
+  "rgb_mode": false,
+  "show_fastfetch": true,
+  "show_window_controls": true,
+  "min_width": 200,
+  "min_height": 200,
+  "logo_scale": 90,
+  "info_scale": 95,
+  "fastfetch_border": 1,
+  "fastfetch_w_pct": 90,
+  "fastfetch_h_pct": 20,
+  "fastfetch_min_h": 100,
+  "info": {
+    "user": "lovec@DESKTOP-2I10RKL",
+    "os": "Windows 11",
+    "kernel": "10.0.26300",
+    "shell": "cmd.exe",
+    "wm": "QULW",
+    "cpu": "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
+    "gpu": "Intel(R) UHD Graphics"
+  },
+  "opt_eco_mode": false,
+  "opt_idle_render": true,
+  "opt_disable_blur": true,
+  "opt_blur_bg": true
+}
