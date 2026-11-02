@@ -35,7 +35,7 @@ from PySide6.QtGui import (
 )
 from qframelesswindow import AcrylicWindow
 
-# пути к файлам — рядом с exe
+# пути к файлам рядом с exe
 if getattr(sys, "frozen", False):
     HERE = Path(sys.executable).parent.resolve()
 else:
